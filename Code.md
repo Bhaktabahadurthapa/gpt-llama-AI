@@ -1,4 +1,4 @@
-### Step 1 — Installing Docker
+### Installing Docker
 
 ### Update and Upgrade ubuntu machine
 ```
